@@ -51,7 +51,7 @@ $(document).ready(function () {
     if (localStorage.theme === 'dark' || (!('theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) {
       $(gelap).toggleClass('hidden', true);
     } else {
-      $(gelap).hasClass() = false;
+      $(gelap).toggleClass('hidden', false);
     }
     e.preventDefault();
   });
