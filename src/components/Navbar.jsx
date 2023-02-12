@@ -38,11 +38,11 @@ const Navbar = () =>{
                                 <div id="dark" class="flex cursor-pointer ml-7 lg:ml-0 lg:mt-1">
                                     <span class="mr-2 text-md text-black dark:text-white">Mode </span>
                                     <span id="terang" class="flex">
-                                        <img  src="public\svg\idea.png" alt="#" width="30"/>
+                                        <img  src="public\svg\idea.webp" alt="#" width="30"/>
                                         <span class="ml-2 text-md text-slate-300 ">light</span>
                                     </span>
                                     <span id="gelap" class="hidden flex">
-                                        <img  src="public\svg\night-mode.png" alt="#" width="30"/>
+                                        <img  src="public\svg\night-mode.webp" alt="#" width="30"/>
                                         <span class="ml-2 text-md text-slate-700">dark</span>
                                     </span>
                                 </div>

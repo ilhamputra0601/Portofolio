@@ -12,21 +12,21 @@ const Portfolio = () => {
             <div class="w-full px-4 flex flex-wrap justify-center xl:w-10/12 xl:mx-auto">
                 <div class="mb-12 p-4 md:w-1/2">
                     <div class="rounded-md shadow-md overflow-hidden ">
-                        <img src="public\img\portfolio\maulid 2.png" alt="maulid alakhyar"/>
+                        <img src="public\img\portfolio\maulid 2.webp" alt="maulid alakhyar"/>
                     </div>
                     <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Landing Page Ilham Ramadhan</h3>
                     <p class="font-medium text-base text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nisi eius repellat!</p>
                 </div>
                 <div class="mb-12 p-4 md:w-1/2">
                     <div class="rounded-md shadow-md overflow-hidden">
-                        <img class="aspect-video" src="public\img\portfolio\baliho(4x5).png" alt="baliho al-ikhlas"/>
+                        <img class="aspect-video" src="public\img\portfolio\baliho(4x5).webp" alt="baliho al-ikhlas"/>
                     </div>
                     <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Landing Page Ilham Ramadhan</h3>
                     <p class="font-medium text-base text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nisi eius repellat!</p>
                 </div>
                 <div class="mb-12 p-4 md:w-1/2">
                     <div class="rounded-md shadow-md overflow-hidden">
-                        <img src="public\img\portfolio\sekenario panggung.png" alt="sekenario panggung"/>
+                        <img src="public\img\portfolio\sekenario panggung.webp" alt="sekenario panggung"/>
                     </div>
                     <h3 class="font-semibold text-xl text-dark mt-5 mb-3">Landing Page Ilham Ramadhan</h3>
                     <p class="font-medium text-base text-secondary">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sapiente nisi eius repellat!</p>
