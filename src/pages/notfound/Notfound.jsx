@@ -38,12 +38,12 @@ return(
         <!-- Content --> */}
         <div class="error__content">
             <div class="error__message message">
-                <h1 class="message__title">Page Not Found</h1>
-                <p class="message__text">We're sorry, the page you were looking for isn't found here. The link you
+                <h1 class="message__title text-slate-700 hover:text-white">Page Not Found</h1>
+                <p class="message__text text-slate-700 hover:text-white">We're sorry, the page you were looking for isn't found here. The link you
                     followed may either be broken or no longer exists. Please try again, or take a look at our.</p>
             </div>
             <div class="error__nav e-nav">
-                <a href="/" class="e-nav__link"></a>
+                <a href="/" class="e-nav__link bg-[#08fffa]"></a>
             </div>
         </div>
         {/*
